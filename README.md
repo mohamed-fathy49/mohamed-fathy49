@@ -1,5 +1,5 @@
 Hi, I'm Mohamed Fathy 👋
-I'm a Telecom RAN Back Office Engineer with 3+ years of experience in telecom operations, network troubleshooting, performance monitoring, and fault management. I'm interested in improving network operations efficiency through Python scripting, Excel reporting automation, and network data analysis.
+I'm a Telecom RAN Back Office Engineer with 4+ years of experience in telecom operations, network troubleshooting, performance monitoring, and fault management. I'm interested in improving network operations efficiency through Python scripting, Excel reporting automation, and network data analysis.
 - RAN Technologies: 2G, 3G, 4G LTE, 5G
 - Network Operations: Alarm Monitoring, KPI Analysis, Fault Management, Site Health Checks, Incident Troubleshooting
 - Automation & Reporting: Python, Excel, Reporting Automation, Data Validation
